@@ -1126,33 +1126,6 @@ pytest
 - [ ] Performance considered
 - [ ] Security implications reviewed
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support & Community
-
-### Getting Help
-
-- **Documentation**: [Full Documentation](docs/)
-- **API Reference**: [API Docs](docs/api/)
-- **Tutorials**: [Getting Started Guide](docs/tutorials/)
-- **FAQ**: [Frequently Asked Questions](docs/faq.md)
-
-### Community
-
-- **GitHub Issues**: [Report bugs or request features](https://github.com/yourusername/call-analysis/issues)
-- **Discussions**: [Community discussions](https://github.com/yourusername/call-analysis/discussions)
-- **Discord**: [Join our Discord server](https://discord.gg/call-analysis)
-- **Stack Overflow**: Tag questions with `call-analysis`
-
-### Commercial Support
-
-For enterprise support, custom development, and consulting:
-- **Email**: enterprise@callanalysis.ai
-- **Website**: [callanalysis.ai](https://callanalysis.ai)
-- **Schedule Consultation**: [Book a call](https://callanalysis.ai/contact)
-
 ## 🎯 Roadmap
 
 ### Current Version: 1.0.0 ✅
@@ -1227,4 +1200,3 @@ pip install -r requirements.txt
 python -m call_analysis.main agents start
 ```
 
-**Built with ❤️ for customer service excellence**
